@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Primera prueba</string>
+    <string name="hola">Hola</string> <!-- Español (default) -->
+    <resources>
+        <string name="app_name2">Fisrt test</string>
+        <string name="hello">Hello</string> <!-- Ingles (default) -->
+    </resources>
+    <resources>
+        <string name="nom_del_application">MiAplicación</string>
+        <string name="Salut">Hola</string> <!-- Frances (default) -->
+    </resources>
+    <resources>
+        <string name="Anwendungsname">MiAplicación</string>
+        <string name="hallo">Hola</string> <!-- Aleman (default) -->
+    </resources>
+
+
+</resources>
